@@ -1,0 +1,26 @@
+{
+	"questions":[
+		{
+			"text":"what is the capital city in palestine?",
+			"answerOption": [
+				{"opt":"Tulkarm","isCorrect":false},
+				{"opt":"Nablus","isCorrect":false},
+				{"opt":"Jerusalem","isCorrect":true},
+				{"opt":"Ramallah","isCorrect":false}
+			]
+			
+		},
+		{
+			"text":"what is the comapnies of programming?",
+			"answerOption": [
+				{"opt":"ITG","isCorrect":false},
+				{"opt":"Asal","isCorrect":false},
+				{"opt":"Exalt","isCorrect":false},
+				{"opt":"All","isCorrect":true}
+			]
+			
+		}
+	]
+		
+	
+}
